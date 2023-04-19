@@ -4,4 +4,4 @@ django-mysql==3.11.1
 djangorestframework==3.12.4
 mysqlclient==2.0.3
 pika==1.2.0
-sqlparse==0.4.1
+sqlparse==0.4.4
