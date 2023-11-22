@@ -1,4 +1,4 @@
-FROM python:3.10.0a6-slim
+FROM python:slim-bookworm
 ENV PYTHONUNBUFFERED 1
 WORKDIR /app
 COPY admin/requirements.txt /app/requirements.txt
